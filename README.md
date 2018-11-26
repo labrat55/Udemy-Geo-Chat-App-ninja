@@ -1,6 +1,6 @@
 # nysl-chat
 
-> A Vue.js project
+> A Vue.js CLI project with Firebase, Materialize and Awesomefont.
 
 ## Build Setup
 
